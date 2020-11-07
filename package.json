@@ -1,7 +1,7 @@
 {
   "name": "monokai-lightmode",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Theme for working in bright environments.",
   "keywords": [
     "syntax",
